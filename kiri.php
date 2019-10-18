@@ -6,8 +6,9 @@
                 <h4 class="font-italic">Daftar Tugas</h4>
                 <ol class="list-unstyled mb-0">
                     <li><a href="tugas1.php">Tugas 1</a></li>
-                    <li><a href="#">Tugas 2</a></li>
-                    <li><a href="#">Tugas 3</a></li>
+                    <li><a href="tugas2.php">Tugas 2</a></li>
+                    <li><a href="tugas3.php">Tugas 3</a></li>
+                    <li><a href="tugas4.php">Tugas 4</a></li>
                 </ol>
                 </div>
         
