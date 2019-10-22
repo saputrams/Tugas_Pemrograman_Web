@@ -34,7 +34,7 @@
     <div class="container">
         <header class="blog-header py-3">
           <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-          <a class="navbar-brand" href="#">Santuuyyy</a>
+          <a class="navbar-brand" href="#">Santuuyyy Travel</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -66,13 +66,13 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="assets/la.jpg" alt="First slide">
+              <img class="d-block w-100" src="assets/1.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="assets/chicago.jpg" alt="Second slide">
+              <img class="d-block w-100" src="assets/2.jpg" alt="Second slide">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="assets/ny.jpg" alt="Third slide">
+              <img class="d-block w-100" src="assets/3.jpg" alt="Third slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

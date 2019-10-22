@@ -1,6 +1,6 @@
 <?php require_once 'kiri.php' ?>
-  
-
+<h3>Profesional Travel Guide</h3>
+<br>
 <div class="media">
   <img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-1/p160x160/30716460_1881961045189497_1627614701434496514_n.jpg?_nc_cat=107&_nc_oc=AQmlW-gTuwLBAj8Fb0FtsjxCS0HlO6-Q01ZKpGWewS2nWMJ2PWIvpdocOQA4D4COhcQ&_nc_ht=scontent-sin6-2.xx&oh=267bb1ccfd18f3aa48fe39dbb78f7a34&oe=5DF8993A" class="mr-3">
   <div class="media-body">

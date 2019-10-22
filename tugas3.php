@@ -1,5 +1,6 @@
 <?php require_once 'kiri.php' ?>
-<h3>Pembayaran Kuliah</h3>
+<h3>Pembayaran Travel</h3>
+<br>
 <hr/>
 <form class="needs-validation" novalidate>
     <div class="row">
